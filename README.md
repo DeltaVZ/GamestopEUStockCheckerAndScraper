@@ -28,4 +28,10 @@ Small Overview of the code
 - "telegram_sender.py" includes the TelegramSender class which makes use of TelegramClient from the telethon library.
 - "utils.py" and "soup_utils.py" contain some useful function that can be used all over the code, sometimes just for
   debug purposes
+- Some tests are made available under tests. They just test some basic functionality of the code. You can run them to verify that your changes haven't broken some basic functionalities
+
+Licenses
+-
+You can read the license in the "LICENSE" file.
+All third party licenses are available under "licenses"
 
