@@ -12,6 +12,12 @@ There are 3 main functions:
 
 An example main is provided to show examples on how this software should be used.
 
+Currently, it works and is tested for gamestop.de and gamestop.it
+
+Other local gamestop sites, such as .ie, .ch and .at should work as well, but they are not fully tested and might require some tweaks.
+
+In any case, the gamestop API could change any time, which means that this software will break and will only work after some tweaking.
+
 How to use
 - 
 
